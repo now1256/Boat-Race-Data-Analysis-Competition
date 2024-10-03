@@ -18,7 +18,8 @@
 순위 : 8/30
 <h2>프로젝트 이미지</h2>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4dcd26de-8c40-4f9a-ace0-0d4dcc87b90e width="60%">  
+  <img src="https://github.com/user-attachments/assets/6c3b72ca-43ce-4d39-9142-996aa718b149" width =40%">  
+  <img src="https://github.com/user-attachments/assets/28015eb8-8fcb-4ff4-8dd0-29bddb9664b9" width= 40%"> 
 </p>
 
 <h2>프로젝트 사진</h2>
